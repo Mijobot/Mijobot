@@ -1,11 +1,16 @@
 ## Hi there 👋
+Hello and thank you for reading this, welcome to my README, I'm a student from the National University of Asunción, taking informatic enginering.
+Since as a kid I remember enjoying standing in front of a computer and just play videogames, the idea of play with other people that in most cases are not even on your region, definetely caught me. 
+Maybe I'm not the tipic profile who starts to coding very young and get in to it so soon, but, when I started to go to the university, I discover the basic concepts of programming, starting with python learning how to make algorithmics, and since I see that you can make things just typing on the computer and running your program, well in that very moment I feel a connection with this programming world :heart_eyes:.
+I'm very interesting at how to make servers, manage data, security , and I will practice and get prepared for that, and I hope find people with the same goals.
+I'm also open to discover and learn a lot of things of programming, development, and work with a team, so If you have something in mind, dont doubt and please send me a message.
 
 <!--
 **Mijobot/Mijobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
